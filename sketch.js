@@ -72,7 +72,7 @@ INGROUND3=createSprite(1025,387,350,5)
   start.addImage(startimg);
   start.scale=0.5
   redBall = createSprite(200,370,25,25)
-  setting = createSprite(-450,50,25,25)
+  setting = createSprite(-4500000,50,25,25)
    setting.addImage(settingimg)
    setting.scale=0.1
    Win4=createSprite(1220,20)
